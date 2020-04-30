@@ -5,6 +5,7 @@
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern="abc" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
